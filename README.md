@@ -2,10 +2,6 @@
 
 > “We don’t hoot. We exploit.”  
 
-Welcome to my GitHub — a low-noise, high-signal nest of red teaming experiments, exploit sketches, and a growing obsession with Web3 security.
-
----
-
 ## 💣 Whoami
 
 - 🧨 Offensive Security Certified Professional (OSCP)  
