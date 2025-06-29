@@ -10,7 +10,6 @@
 - ⛓ Currently exploring **Web3 Security** — breaking smart contracts, analyzing chains, and tracing attacker wallets  
 - 🧪 Tinkerer, toolsmith, and late-night payload poet  
 
----
 
 ## 🧰 What You'll Find Here
 
@@ -23,14 +22,11 @@
 
 > Projects here often start with curiosity and end with shell access.
 
----
 
 ## 🚧 To Conquer (Learning Journey)
 
 - 🔄 **OSCE3** — In progress  
 - 📦 Smart contract fuzzers & auditors  
-
----
 
 ## 📊 GitHub Stats
 
@@ -39,7 +35,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0wl3x&layout=compact&theme=tokyonight" width="41%" />
 </p>
 
----
 
 ## 🕶️ Fun Fact
 
