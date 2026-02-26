@@ -27,13 +27,6 @@
 - 🔄 **OSCE3** — In progress  
 - 📦 Smart contract fuzzers & auditors  
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0wl3xSec&show_icons=true&theme=tokyonight&hide=issues" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0wl3xSec&layout=compact&theme=tokyonight" height="150" />
-</p>
-
 
 ## 🕶️ Fun Fact
 
