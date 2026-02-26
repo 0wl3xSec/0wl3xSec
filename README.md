@@ -5,7 +5,8 @@
 ## 💣 Whoami
 
 - 🧨 Offensive Security Certified Professional (OSCP)  
-- 🎯 Offensive Security Experienced Penetration Tester (OSEP)  
+- 🎯 Offensive Security Experienced Penetration Tester (OSEP)
+- 👾 Offensive Security Exploit Developer (OSED)
 - 🧠 Red Teamer with a focus on post-exploitation, evasion, and adversary simulation  
 - ⛓ Currently exploring **Web3 Security** — breaking smart contracts, analyzing chains, and tracing attacker wallets  
 - 🧪 Tinkerer, toolsmith, and late-night payload poet  
@@ -15,8 +16,6 @@
 
 | Focus Area     | Topics & Tools You Might See                      |
 |----------------|--------------------------------------------------|
-| 🐚 Red Teaming | C2 tooling, evasions, lateral movement            |
-| 🎯 Exploit Dev | Post-ex scripts, custom payloads, automation     |
 | 🧱 Web3 Journey | Solidity vuln labs, on-chain recon, audit notes |
 
 
