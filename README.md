@@ -19,7 +19,7 @@
 | 🧱 Web3 Journey | Solidity vuln labs, on-chain recon, audit notes |
 
 
-> Projects here often start with curiosity and end with shell access.
+> Projects here often start with curiosity.
 
 
 ## 🚧 To Conquer (Learning Journey)
